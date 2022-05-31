@@ -70,13 +70,16 @@ plt.imshow(th2,cmap='gray')
 ## Output
 
 ### Original Image
-<br>
+![download](https://user-images.githubusercontent.com/93978702/171140223-750fed90-9e31-47a9-92d5-c76b603d3f1b.png)
+
 <br>
 <br>
 <br>
 <br>
 
 ### Global Thresholding
+![download](https://user-images.githubusercontent.com/93978702/171140271-5020d208-9191-4a30-b4ff-c2d5f2f99494.png)
+
 <br>
 <br>
 <br>
@@ -84,6 +87,8 @@ plt.imshow(th2,cmap='gray')
 <br>
 
 ### Adaptive Thresholding
+![download](https://user-images.githubusercontent.com/93978702/171140312-88b49524-e989-48db-bf2c-dfd5d590335a.png)
+
 <br>
 <br>
 <br>
@@ -91,6 +96,8 @@ plt.imshow(th2,cmap='gray')
 <br>
 
 ### Optimum Global Thesholding using Otsu's Method
+![download](https://user-images.githubusercontent.com/93978702/171140342-8e4b2779-a5fe-48d4-8205-b95d7aa1e326.png)
+
 <br>
 <br>
 <br>
