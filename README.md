@@ -28,7 +28,7 @@ Apply the reqiured algorithms for Adaptive thresholding.
 Apply the reqiured algorithms for Otsu's thresholding.
 
 ## Program
-
+```python
 import cv2
 import matplotlib.pyplot as plt
 # Read the Image and convert to grayscale
